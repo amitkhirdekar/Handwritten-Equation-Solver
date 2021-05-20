@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+        <h2>File Upload</h2>
+        <form method="POST" action="/predict" enctype="multipart/form-data">
+          <p><input type="file" name="file" required="true" placeholder="Upload the Image to Predict"></p>
+          <p><input type="submit" value="Answer"></p>
+        </form>
+<div class="container">
+        <div> Operation : {{value[0]}}
+    <div id="operation-container"></div>
+    </div>
+
+    <div> Solution : {{value[1]}}
+    <div id="solution-container"></div>
+    </div>
+</div>
+
+
+{% endblock %}
