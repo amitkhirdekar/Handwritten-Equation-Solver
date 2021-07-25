@@ -4,7 +4,47 @@ This web based project uses canvas from HTML to draw equations on web page or up
 
 ## Screenshots
 
-Currently unavailable, coming soon ...
+<p align="center">
+<img src ="https://github.com/amitkhirdekar/Handwritten-Equation-Solver/blob/main/Screenshots/1.MainUI.png" alt="MainUI" width="60%"></img>
+</p>
+<p align="center">
+App's main UI</p>
+
+<p align="center">
+<img src ="https://github.com/amitkhirdekar/Handwritten-Equation-Solver/blob/main/Screenshots/2.SignUp.png" alt="MainUI" width="60%"></img>
+</p>
+<p align="center">
+Sign Up / Register UI</p>
+
+<p align="center">
+<img src ="https://github.com/amitkhirdekar/Handwritten-Equation-Solver/blob/main/Screenshots/3.LoginUI.png" alt="MainUI" width="60%"></img>
+</p>
+<p align="center">
+Login UI</p>
+
+<p align="center">
+<img src ="https://github.com/amitkhirdekar/Handwritten-Equation-Solver/blob/main/Screenshots/4.Dashboard.png" alt="MainUI" width="60%"></img>
+</p>
+<p align="center">
+Dashboard UI</p>
+
+<p align="center">
+<img src ="https://github.com/amitkhirdekar/Handwritten-Equation-Solver/blob/main/Screenshots/5.TestImg.jpg" alt="MainUI" width="60%"></img>
+</p>
+<p align="center">
+Test Image</p>
+
+<p align="center">
+<img src ="https://github.com/amitkhirdekar/Handwritten-Equation-Solver/blob/main/Screenshots/6.UploadAns.png" alt="MainUI" width="60%"></img>
+</p>
+<p align="center">
+Answer for Test Image</p>
+
+<p align="center">
+<img src ="https://github.com/amitkhirdekar/Handwritten-Equation-Solver/blob/main/Screenshots/7.WriteAns.png" alt="MainUI" width="60%"></img>
+</p>
+<p align="center">
+Answer for Writing Equation Online</p>
 
 ## Installation
 This app runs on web.
@@ -36,7 +76,7 @@ http://127.0.0.1:5000/
 ## Usage
 At first, register yourself using "Register" button. Then, Log in with your credentials. You will see UI similar to this
 
-<img src="" alt="UI_Screenshot" width="90%"></img>
+<img src="https://github.com/amitkhirdekar/Handwritten-Equation-Solver/blob/main/Screenshots/4.Dashboard.png" alt="UI_Screenshot" width="90%"></img>
 
 Now, You can upload images of handwritten equations or write your equation online. Software will compute the answer and will show in answer field.
 
